@@ -13,7 +13,7 @@ STEP4:- Now add python 2.6 to PATH.
 
 STEP5:- Now write a hellow world python program in computer at any directory 
         for example i am considering drive g:\
-        Now driv g:\ consisting of hellow.py
+STEP6:- Now driv g:\ consisting of hellow.py
         Now open the command window in drive g:\
         
         type command like this 
